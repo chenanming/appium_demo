@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "第十期_Appium 使用进阶_20190818 课后作业",
+    "children" : [ {
+      "name" : "添加股票，判断股票添加成功",
+      "children" : [ {
+        "name" : "test_search_add_optional",
+        "uid" : "bbcf97696f8d7751",
+        "parentUid" : "767ccf8677d571990f3b89b1d14db383",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567067038464,
+          "stop" : 1567067054596,
+          "duration" : 16132
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "767ccf8677d571990f3b89b1d14db383"
+    }, {
+      "name" : "再次添加股票，添加股票的按钮要变成“已添加”",
+      "children" : [ {
+        "name" : "test_add_optional_agine",
+        "uid" : "cd78b41ff1bdcbda",
+        "parentUid" : "a8efccef03e43289ef9b7a5683ab1c5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567067076815,
+          "stop" : 1567067090521,
+          "duration" : 13706
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a8efccef03e43289ef9b7a5683ab1c5d"
+    }, {
+      "name" : "删除已经添加的股票，再次搜索股票，股票的按钮变成“加自选”",
+      "children" : [ {
+        "name" : "test_deletat_optional",
+        "uid" : "854fd7d5ae818504",
+        "parentUid" : "12b998385e78d3c7c93adb3a0def017f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567067112326,
+          "stop" : 1567067135418,
+          "duration" : 23092
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12b998385e78d3c7c93adb3a0def017f"
+    } ],
+    "uid" : "4a2c10fbf3127219cbb0a26ddc635157"
+  } ]
+}

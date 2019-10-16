@@ -1,0 +1,61 @@
+{
+  "uid" : "cd78b41ff1bdcbda",
+  "name" : "test_add_optional_agine",
+  "fullName" : "testcase.test_homework.TestSearch#test_add_optional_agine",
+  "historyId" : "31e42780cdff0027df6fc27110a09ebc",
+  "time" : {
+    "start" : 1567067076815,
+    "stop" : 1567067090521,
+    "duration" : 13706
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "再次添加股票，添加股票的按钮要变成“已添加”"
+  }, {
+    "name" : "feature",
+    "value" : "第十期_Appium 使用进阶_20190818 课后作业"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_homework"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20171018VBW"
+  }, {
+    "name" : "thread",
+    "value" : "5352-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_homework"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd78b41ff1bdcbda.json",
+  "parameterValues" : [ ]
+}

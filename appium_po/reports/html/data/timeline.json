@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SKY-20171018VBW",
+    "children" : [ {
+      "name" : "5352-MainThread",
+      "children" : [ {
+        "name" : "test_search_add_optional",
+        "uid" : "bbcf97696f8d7751",
+        "parentUid" : "f577f805b34141c9cacb76a31ed96e9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567067038464,
+          "stop" : 1567067054596,
+          "duration" : 16132
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_deletat_optional",
+        "uid" : "854fd7d5ae818504",
+        "parentUid" : "f577f805b34141c9cacb76a31ed96e9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567067112326,
+          "stop" : 1567067135418,
+          "duration" : 23092
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_add_optional_agine",
+        "uid" : "cd78b41ff1bdcbda",
+        "parentUid" : "f577f805b34141c9cacb76a31ed96e9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567067076815,
+          "stop" : 1567067090521,
+          "duration" : 13706
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f577f805b34141c9cacb76a31ed96e9f"
+    } ],
+    "uid" : "afefecfaff79581050d5d0d10391f622"
+  } ]
+}

@@ -1,0 +1,1023 @@
+1564102603994	geckodriver	INFO	Listening on 127.0.0.1:51101
+1564102607083	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.dDyCYoKe6Iyw
+1564102607085	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564102607105	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51111
+1564102608565	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7232] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7232] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7740] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564102617276	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7480] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6660] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1564102703765	geckodriver	INFO	Listening on 127.0.0.1:51241
+1564102706797	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.9OwAflm1FVH1
+1564102706798	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564102706802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51249
+1564102707014	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564102733845	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564102746311	geckodriver	INFO	Listening on 127.0.0.1:51354
+1564102749343	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ftVHWkgSDAce
+1564102749345	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564102749347	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51362
+1564102749559	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564102776436	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7888] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 244: TypeError: this._builder is undefined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4832] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7996] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564102857190	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564103025633	geckodriver	INFO	Listening on 127.0.0.1:52039
+1564103028656	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.rf2rjO7ikGcN
+1564103028658	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564103028660	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52050
+1564103028902	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564103056356	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8064] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5284] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7472] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1564104069163	geckodriver	INFO	Listening on 127.0.0.1:54756
+1564104072176	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.68mb8kY34uwE
+1564104072178	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564104072180	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54766
+1564104072426	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8980] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7700] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564104099167	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564104193547	geckodriver	INFO	Listening on 127.0.0.1:54962
+1564104196573	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.kq89JCxHX9by
+1564104196574	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564104196577	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54971
+1564104196812	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7728] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564104224896	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564104267365	geckodriver	INFO	Listening on 127.0.0.1:55135
+1564104270400	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.mSa0WKwFcmLH
+1564104270402	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564104270405	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55144
+1564104270655	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8856] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564104278720	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 4792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8020] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Message: Error: Connection closed before committing the transaction.
+  Stack:
+    executeTransaction/promise</transactionPromise<@resource://gre/modules/Sqlite.jsm:622:19
+observe@resource://gre/modules/AsyncShutdown.jsm:534:9
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564104287317	geckodriver	INFO	Listening on 127.0.0.1:55192
+1564104290339	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.q37hWS9yGMWs
+1564104290341	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564104290344	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55201
+1564104290566	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8908] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564104317850	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564104419705	geckodriver	INFO	Listening on 127.0.0.1:55481
+1564104422751	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.TV37qxeu8EAu
+1564104422753	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564104422755	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55493
+1564104422992	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4784] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564105043558	geckodriver	INFO	Listening on 127.0.0.1:56473
+1564105046583	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.MvYFllwAcgI4
+1564105046584	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564105046587	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56485
+1564105046827	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4736] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4736] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1564105076670	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7952] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7952] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7540] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7540] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1564105128527	geckodriver	INFO	Listening on 127.0.0.1:56754
+1564105131574	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.eP2ufeyGli0g
+1564105131575	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564105131578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56765
+1564105131826	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7444] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564105159472	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4012] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564120945632	geckodriver	INFO	Listening on 127.0.0.1:53761
+1564120947594	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.L8RZ3bIP1B8T
+1564120947595	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564120947598	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53767
+1564120948317	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7988] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7488] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564120961252	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564120965357	geckodriver	INFO	Listening on 127.0.0.1:53816
+1564120967383	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.MmuZwlozHSvz
+1564120967384	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564120967387	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53824
+1564120968089	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1564120981072	geckodriver	INFO	Listening on 127.0.0.1:53859
+1564120983089	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.JELppAuL44ws
+1564120983090	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564120983093	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53865
+1564120983717	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10252] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10252] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564121042583	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564121064123	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9844] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10336] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10336] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1564371698841	geckodriver	INFO	Listening on 127.0.0.1:53499
+1564371700773	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.X9noQIi7JY8V
+1564371700774	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564371700802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53505
+1564371702455	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2576] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564371771002	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564371792535	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 1831: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIAutoCompleteController.setInitiallySelectedIndex]
+[Parent 7132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7132] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8404] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8404] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7456] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564382323825	geckodriver	INFO	Listening on 127.0.0.1:57444
+1564382325952	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.SSH4EhPUezrM
+1564382325954	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564382325957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57455
+1564382327046	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1564382396321	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564382417699	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564382525376	geckodriver	INFO	Listening on 127.0.0.1:58052
+1564382527409	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.yoCUDQEV6SFF
+1564382527411	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564382527414	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58060
+1564382527978	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564382558643	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8348] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1928] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2912] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2912] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1564384282971	geckodriver	INFO	Listening on 127.0.0.1:61506
+1564384284921	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5UuSElRTpZQL
+1564384284923	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564384284926	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61512
+1564384286326	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1564384316638	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564384960492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Bdnw3TXvE273"
+1564384961255	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1564384961853	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3960] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564384964681	Marionette	INFO	Listening on port 63323
+1564385069198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.hfM5hd02QTRo"
+1564385069806	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1564385070445	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4372] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564385073363	Marionette	INFO	Listening on port 63435
+1564387141757	geckodriver	INFO	Listening on 127.0.0.1:65439
+1564387144801	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.8KaaUXgfAK35
+1564387144802	geckodriver::marionette	INFO	Starting browser d:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564387144806	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65447
+1564387146251	Marionette	INFO	Listening on port 65447
+1564387148994	Marionette	INFO	startBrowser f3bfda82-1722-4a2f-8033-4e508fd4192a
+1564387433205	geckodriver	INFO	Listening on 127.0.0.1:49178
+1564387891671	geckodriver	INFO	Listening on 127.0.0.1:49794
+1564387894687	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.SiEdx6FjCrZ1
+1564387894689	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564387894692	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49803
+1564387895801	Marionette	INFO	Listening on port 49803
+1564387897496	Marionette	INFO	startBrowser 47380eac-0d2c-4457-8937-797f3933a8b5
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 9540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9540] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564388041080	geckodriver	INFO	Listening on 127.0.0.1:49933
+1564388044111	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Cxf0huB4a1fL
+1564388044113	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564388044116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49947
+1564388045101	Marionette	INFO	Listening on port 49947
+1564388047375	Marionette	INFO	startBrowser 8697be63-41ed-4371-9eb8-8a215c274f66
+[Child 10516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564388153423	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5TMabHtWEnUe
+1564388144995	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564388144998	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49991
+1564388146243	Marionette	INFO	Listening on port 49991
+1564388148890	Marionette	INFO	startBrowser 97d37ded-57ab-4f85-ac48-d97beab959ff
+[Child 9932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564389467254	geckodriver	INFO	Listening on 127.0.0.1:51828
+1564389470273	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.4VfZZpfp8DB5
+1564389470274	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564389470277	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51840
+1564389471677	Marionette	INFO	Listening on port 51840
+1564389474012	Marionette	INFO	startBrowser 117be471-517a-4863-b64d-3b3cb524e28e
+[Child 2884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564389884949	geckodriver	INFO	Listening on 127.0.0.1:52541
+1564389887947	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.9DdcsrsO1Twf
+1564389887948	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564389887951	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52553
+1564389889296	Marionette	INFO	Listening on port 52553
+1564389891577	Marionette	INFO	startBrowser 927d4f14-89c7-415a-ae10-09950895d4f4
+[Child 10840] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564389928062	geckodriver	INFO	Listening on 127.0.0.1:52640
+1564389931087	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.MkeCMFfb2Svj
+1564389931088	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564389931091	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52652
+1564389932119	Marionette	INFO	Listening on port 52652
+1564389934535	Marionette	INFO	startBrowser cb1fd308-1148-41ad-974a-c9a7f0ad2354
+1564389990344	geckodriver	INFO	Listening on 127.0.0.1:52771
+1564389993390	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.g6feqHQMTIM3
+1564389993391	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564389993394	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52787
+1564389994384	Marionette	INFO	Listening on port 52787
+1564389996338	Marionette	INFO	startBrowser 99065755-09de-480c-bbee-ae5df5c61153
+[Child 8804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564390019541	geckodriver	INFO	Listening on 127.0.0.1:52855
+1564390022536	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.y3XziKcXVWWn
+1564390022537	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564390022541	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52867
+1564390023555	Marionette	INFO	Listening on port 52867
+1564390025740	Marionette	INFO	startBrowser d42874ee-0c55-48ce-bdcb-334745d5d8c4
+[Child 8080] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564390143473	geckodriver	INFO	Listening on 127.0.0.1:53106
+1564390146505	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.WTJGO8hhRIyV
+1564390146507	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564390146510	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53123
+1564390147470	Marionette	INFO	Listening on port 53123
+1564390149693	Marionette	INFO	startBrowser 9244e167-674e-4cc6-a584-262a7ea1ea0b
+[Child 11172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564390211273	geckodriver	INFO	Listening on 127.0.0.1:53264
+1564390214283	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.lVunWnrQ5jDt
+1564390214284	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564390214287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53277
+1564390215274	Marionette	INFO	Listening on port 53277
+1564390217368	Marionette	INFO	startBrowser 00997e83-04ec-438f-b89b-b43676546c27
+[Child 3696] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564393912435	geckodriver	INFO	Listening on 127.0.0.1:59550
+1564393915414	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ZzCqpubo1ueg
+1564393915416	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564393915418	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59562
+1564393916892	Marionette	INFO	Listening on port 59562
+1564393918909	Marionette	INFO	startBrowser 1eb2a094-6abc-4131-a2cd-f7a34eebe5cf
+1564394002145	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5132] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ on port 59686
+1564393978276	Marionette	INFO	startBrowser 309aa4d3-2b11-4c7d-bb38-947150cc5ebc
+1564394095902	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564394123586	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 109ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode134
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode263
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode263
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode70
+[Child 6940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ile.xhvH22neJ58h
+1564395140832	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395140835	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61770
+1564395141805	Marionette	INFO	Listening on port 61770
+1564395143993	Marionette	INFO	startBrowser 7867cbd6-e2a3-4efc-8420-17f0b5600941
+[Child 7672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7672] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564395214918	geckodriver	INFO	Listening on 127.0.0.1:61905
+1564395217978	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.gJ9OCw0z9ODC
+1564395217979	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395217983	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61921
+1564395218967	Marionette	INFO	Listening on port 61921
+1564395220650	Marionette	INFO	startBrowser 1d9d5a95-a55d-4eb8-b855-193dc02f2e4b
+1564395407559	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5x09GxpZk4bh
+1564395261915	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395261918	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62016
+1564395262882	Marionette	INFO	Listening on port 62016
+1564395265247	Marionette	INFO	startBrowser e26b0bd3-503b-4e8b-a492-dce1ab075b44
+[Child 4388] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ile.uNKqrvhP8kdV
+1564395301732	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395301735	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62118
+1564395302858	Marionette	INFO	Listening on port 62118
+1564395304585	Marionette	INFO	startBrowser bf72923e-9f31-48c5-88d8-6e92363b381a
+1564395332016	geckodriver	INFO	Listening on 127.0.0.1:62188
+1564395335053	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.usYecABuWxuU
+1564395335054	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395335057	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62200
+1564395336014	Marionette	INFO	Listening on port 62200
+1564395338173	Marionette	INFO	startBrowser a5517893-6174-423d-a6a5-24b53f280f8d
+[Child 8728] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564395363694	geckodriver	INFO	Listening on 127.0.0.1:62266
+1564395366739	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.hOakJuSkgsN0
+1564395366741	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395366744	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62279
+1564395367782	Marionette	INFO	Listening on port 62279
+1564395370084	Marionette	INFO	startBrowser 648c79ba-7ecf-4499-8730-907a88e0dd4a
+[Child 3344] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564395548311	geckodriver	INFO	Listening on 127.0.0.1:62595
+1564395551322	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.imMSKX85DaJv
+1564395551323	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395551326	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62608
+1564395552448	Marionette	INFO	Listening on port 62608
+1564395554722	Marionette	INFO	startBrowser 68786bf1-d271-4fd4-aec1-cbe501989d07
+[Child 6172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6172] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nette	INFO	Connecting to Marionette on localhost:62691
+1564395586513	Marionette	INFO	Listening on port 62691
+1564395588554	Marionette	INFO	startBrowser d9b4d450-7b94-4581-a943-ab53867f40fc
+[Child 8636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564395616615	geckodriver	INFO	Listening on 127.0.0.1:62764
+1564395619662	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Vtg2dLwlMtGl
+1564395619664	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395619666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62777
+1564395620620	Marionette	INFO	Listening on port 62777
+1564395622228	Marionette	INFO	startBrowser 69016211-b2a0-45db-9e7e-fd5591ae4b16
+1564395815784	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.W6ScfEQUVfEI
+1564395656755	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395656758	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62863
+1564395657674	Marionette	INFO	Listening on port 62863
+1564395660177	Marionette	INFO	startBrowser a1f5eb00-acdb-43f1-a9ee-90ec97157109
+[Child 10064] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564395849726	geckodriver	INFO	Listening on 127.0.0.1:63185
+1564395852753	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.g8zUzAiurB8u
+1564395852755	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395852757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63197
+1564395853777	Marionette	INFO	Listening on port 63197
+1564395855856	Marionette	INFO	startBrowser 21f1d482-f312-48d2-a417-2c9fbdaa45a7
+[Child 10548] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564395941194	geckodriver	INFO	Listening on 127.0.0.1:63473
+1564395944224	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.mi5IxrtFo3E3
+1564395944226	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564395944228	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63485
+1564395945149	Marionette	INFO	Listening on port 63485
+1564395947715	Marionette	INFO	startBrowser 4e8ea26a-cea4-467a-9e20-5741a8bc3c6b
+[Child 1056] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564396064382	geckodriver	INFO	Listening on 127.0.0.1:63730
+1564396067443	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.i9mnGOhLDuLY
+1564396067445	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564396067447	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63742
+1564396068477	Marionette	INFO	Listening on port 63742
+[Parent 4028] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 4028] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564396070426	Marionette	INFO	startBrowser 73eab730-4a45-4b12-8d88-77b5bb893be9
+[Parent 4028] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 4028] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 338: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://app/modules/sessionstore/TabStateFlusher.jsm, line 89: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+1564396314546	geckodriver	INFO	Listening on 127.0.0.1:64265
+1564396317572	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.AqKBP9s7t45N
+1564396317574	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564396317577	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64277
+1564396318778	Marionette	INFO	Listening on port 64277
+[Parent 10120] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 10120] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564396321114	Marionette	INFO	startBrowser 07ea4b93-5805-4905-af7f-2a0941f9c518
+[Parent 10120] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 10120] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 44: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 272: TypeError: frameLoader.tabParent is null
+1564396576241	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 338: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://app/modules/sessionstore/TabStateFlusher.jsm, line 89: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+1564399044895	geckodriver	INFO	Listening on 127.0.0.1:52268
+1564399047926	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.BLWm5Qw4zOvn
+1564399047928	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399047931	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52280
+1564399048800	Marionette	INFO	Listening on port 52280
+1564399051019	Marionette	INFO	startBrowser 4ecca2c4-f973-42a0-b9f0-ff44214704f5
+[Child 8816] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564399272950	geckodriver	INFO	Listening on 127.0.0.1:52676
+1564399275965	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.8KTGQWNOpEKU
+1564399275967	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399275970	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52688
+1564399276979	Marionette	INFO	Listening on port 52688
+1564399279226	Marionette	INFO	startBrowser a29329c6-ddd3-4938-b7f3-4cf2a90c03fe
+[Child 7916] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564399580546	geckodriver	INFO	Listening on 127.0.0.1:53312
+1564399583580	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ut0kUSxDOZbY
+1564399583581	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399583584	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53326
+1564399584521	Marionette	INFO	Listening on port 53326
+[Parent 8816] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 8816] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564399586523	Marionette	INFO	startBrowser e0a4c499-487a-499c-8fd6-1d75ebc900d0
+[Parent 8816] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 8816] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+1564399682864	geckodriver	INFO	Listening on 127.0.0.1:53502
+1564399685909	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.pxPlZtvBYPPd
+1564399685911	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399685913	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53517
+1564399687087	Marionette	INFO	Listening on port 53517
+[Parent 9436] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 9436] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564399689164	Marionette	INFO	startBrowser bbf8915a-9ef0-4931-b97f-b6f5c4d7bf95
+[Parent 9436] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 9436] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+1564399776144	geckodriver	INFO	Listening on 127.0.0.1:53679
+1564399779170	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Vc17z07gjQtj
+1564399779173	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399779176	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53691
+1564399780185	Marionette	INFO	Listening on port 53691
+[Parent 3684] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 3684] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564399782398	Marionette	INFO	startBrowser 6a1b9723-9190-4705-a03f-e843f664cb39
+[Parent 3684] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 3684] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 44: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 260: TypeError: frameLoader.tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 338: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://app/modules/sessionstore/TabStateFlusher.jsm, line 89: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+1564399820963	geckodriver	INFO	Listening on 127.0.0.1:53778
+1564399823991	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ZboRvM2IfnRM
+1564399823993	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399823996	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53791
+1564399824916	Marionette	INFO	Listening on port 53791
+[Parent 1260] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 1260] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564399827066	Marionette	INFO	startBrowser 87583a95-d587-462a-88a3-da9f19988a46
+[Parent 1260] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 1260] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 44: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 260: TypeError: frameLoader.tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 338: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://app/modules/sessionstore/TabStateFlusher.jsm, line 89: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+1564399920759	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564399977146	geckodriver	INFO	Listening on 127.0.0.1:54108
+1564399980172	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.uldB3wbaSsWM
+1564399980173	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564399980177	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54120
+1564399981233	Marionette	INFO	Listening on port 54120
+[Parent 8700] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 8700] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564399983163	Marionette	INFO	startBrowser 803e99f1-5479-4ef2-a32c-3b33c2adca2e
+[Parent 8700] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 8700] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 338: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://app/modules/sessionstore/TabStateFlusher.jsm, line 89: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 1525: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIFile.isDirectory]
+1564400367529	geckodriver	INFO	Listening on 127.0.0.1:54808
+1564400370554	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.oT0dOn9NvhpX
+1564400370556	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564400370559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54820
+1564400371498	Marionette	INFO	Listening on port 54820
+1564400373479	Marionette	INFO	startBrowser ecea403e-d67c-4383-b7de-03606c280bea
+[Child 10604] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564400412200	geckodriver	INFO	Listening on 127.0.0.1:54910
+1564400415239	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.1uRggDEGMbkP
+1564400415240	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564400415243	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54923
+1564400416186	Marionette	INFO	Listening on port 54923
+1564400418326	Marionette	INFO	startBrowser 44b3731e-55df-4253-ba36-b2f81900feb3
+[Child 6172] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564400720562	geckodriver	INFO	Listening on 127.0.0.1:55421
+1564400723597	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.w4iSZ9caIKxG
+1564400723599	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564400723602	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55434
+1564400724608	Marionette	INFO	Listening on port 55434
+1564400727090	Marionette	INFO	startBrowser fa73ba0b-d70e-4ca9-8a70-395f6e1e3989
+[Child 8996] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564400762524	geckodriver	INFO	Listening on 127.0.0.1:55522
+1564400765549	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.nZS5qi5343or
+1564400765551	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564400765554	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55536
+1564400766640	Marionette	INFO	Listening on port 55536
+1564400768641	Marionette	INFO	startBrowser 3621b3a3-45d0-4aa7-b04f-036a0c12c738
+1564401761970	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 10392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+n port 55611
+1564400797766	Marionette	INFO	startBrowser 642c1790-35a0-4a76-b76d-667c21024dff
+[Child 10476] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564400852442	geckodriver	INFO	Listening on 127.0.0.1:55739
+1564400855471	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.VKHSlVjS7A27
+1564400855473	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564400855475	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55752
+1564400856494	Marionette	INFO	Listening on port 55752
+1564400858605	Marionette	INFO	startBrowser 181178ff-a5d5-48b9-9b30-1ffa77d3e63e
+[Child 2860] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564402302907	geckodriver	INFO	Listening on 127.0.0.1:56286
+1564402305912	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.UcLqJDe6md6U
+1564402305914	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564402305917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56295
+1564402306932	Marionette	INFO	Listening on port 56295
+1564402309022	Marionette	INFO	startBrowser 8fcc70ee-4242-4bb7-ad61-3d0bac3e4de3
+[Child 4776] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564402394543	geckodriver	INFO	Listening on 127.0.0.1:56370
+1564402397580	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.CrmzcXfoij7j
+1564402397582	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564402397585	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56378
+1564402398582	Marionette	INFO	Listening on port 56378
+1564402400576	Marionette	INFO	startBrowser d654b26d-5d02-4939-bc4e-47ca2c4e513e
+[Child 10764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+le.2Yxz8jt2qTzw
+1564403391319	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564403391321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56768
+1564403392477	Marionette	INFO	Listening on port 56768
+1564403394683	Marionette	INFO	startBrowser 38de1924-7fe3-45b4-909c-077921228222
+[Child 9752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nette	INFO	Connecting to Marionette on localhost:56829
+1564403448150	Marionette	INFO	Listening on port 56829
+1564403450263	Marionette	INFO	startBrowser 3ebdc484-adff-4096-aa4a-29c82992dd0f
+[Child 10012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+tte	INFO	Connecting to Marionette on localhost:56887
+1564403516434	Marionette	INFO	Listening on port 56887
+1564403518758	Marionette	INFO	startBrowser 77b13340-479e-436a-9fc6-2be307873336
+1564403744404	geckodriver	INFO	Listening on 127.0.0.1:57001
+1564403747432	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.KXAk3E8Sblao
+1564403747435	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564403747438	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57010
+1564403748517	Marionette	INFO	Listening on port 57010
+1564403750669	Marionette	INFO	startBrowser a199fbaa-9bbb-428f-9dce-1413d421e4ef
+[Child 8748] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564404034092	geckodriver	INFO	Listening on 127.0.0.1:57444
+1564404037126	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.oz0ncGlOElco
+1564404037127	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564404037131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57459
+1564404038148	Marionette	INFO	Listening on port 57459
+1564404040149	Marionette	INFO	startBrowser 2a79f520-fac9-42fc-9105-b42da9c52427
+[Child 4056] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564404099886	geckodriver	INFO	Listening on 127.0.0.1:57588
+1564404102907	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.HjDeT7AfPkUH
+1564404102909	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564404102912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57600
+1564404103848	Marionette	INFO	Listening on port 57600
+1564404105781	Marionette	INFO	startBrowser 26404007-c453-4852-b3dd-5ff37b16c7c9
+[Child 10308] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564448760363	geckodriver	INFO	Listening on 127.0.0.1:51059
+1564448763269	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.MNXJqxA6yH6q
+1564448763271	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564448763274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51072
+1564448764482	Marionette	INFO	Listening on port 51072
+1564448767200	Marionette	INFO	startBrowser 72dd1d56-622d-45dc-b0cc-a3e770a0a04c
+[Child 744] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564448819686	geckodriver	INFO	Listening on 127.0.0.1:51213
+1564448822729	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.n8BWNG598gjk
+1564448822731	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564448822739	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51226
+1564448823806	Marionette	INFO	Listening on port 51226
+1564448825799	Marionette	INFO	startBrowser ab59d61c-d30c-4250-8b40-44d8983c6e1b
+[Child 8176] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564448870998	geckodriver	INFO	Listening on 127.0.0.1:51356
+1564448874024	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.twNu87Fa0AlP
+1564448874026	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564448874029	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51369
+1564448875012	Marionette	INFO	Listening on port 51369
+1564448877302	Marionette	INFO	startBrowser 32b2c4d9-e284-4355-90b7-d1a5c24f7f0f
+[Child 8148] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564448971102	geckodriver	INFO	Listening on 127.0.0.1:51595
+1564448974142	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5UWP6DUyJeCI
+1564448974143	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564448974146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51608
+1564448975099	Marionette	INFO	Listening on port 51608
+1564448976623	Marionette	INFO	startBrowser d25c11ef-105f-4c00-a4eb-2bbb86be0e91
+[Child 7184] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564449149214	geckodriver	INFO	Listening on 127.0.0.1:51986
+1564449152265	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.oMCHNl8gcIcM
+1564449152267	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564449152269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51999
+1564449153305	Marionette	INFO	Listening on port 51999
+[Parent 4560] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 4560] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+1564449155493	Marionette	INFO	startBrowser 2e43529b-f926-45d2-8faa-29167e6bc9b0
+[Parent 4560] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+[Parent 4560] WARNING: Failed to launch tab subprocess: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 572
+*************************
+A coding exception was thrown in a Promise resolution callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: frameLoader.tabParent is null
+Full stack: set_docShellIsActive@chrome://global/content/bindings/remote-browser.xml:260:13
+updateBrowserRemoteness@chrome://browser/content/tabbrowser.xml:1600:1
+updateBrowserRemotenessByURL@chrome://browser/content/tabbrowser.xml:1665:22
+SessionStoreInternal.restoreTabContent@resource:///modules/sessionstore/SessionStore.jsm:3359:30
+restoreTab@resource:///modules/sessionstore/SessionStore.jsm:3316:7
+navigateAndRestore/<@resource:///modules/sessionstore/SessionStore.jsm:2567:7
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+
+*************************
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 338: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+JavaScript error: resource://app/modules/sessionstore/TabStateFlusher.jsm, line 89: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+1564449580045	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1564449583158	geckodriver	INFO	Listening on 127.0.0.1:52696
+1564449586185	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.q2PyVpHpfI3n
+1564449586187	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564449586189	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52708
+1564449833066	geckodriver	INFO	Listening on 127.0.0.1:53403
+1564449836079	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ikULmBMdW1EA
+1564449836081	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564449836084	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53419
+1564449836348	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6272] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564449863446	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7172] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7476] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1564450704856	geckodriver	INFO	Listening on 127.0.0.1:55830
+1564450707907	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5NSiMgXGxrTw
+1564450707909	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564450707912	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55845
+1564450708166	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///D:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564450735242	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6336] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7292] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6016] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1564456320120	geckodriver	INFO	Listening on 127.0.0.1:52273
+1564456323118	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Dv7mndNfT7Bq
+1564456323120	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564456323123	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52288
+1564456324057	Marionette	INFO	Listening on port 52288
+1564456326102	Marionette	INFO	startBrowser 089e3f35-889d-4c37-854c-1f02ae13be75
+[Child 7376] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564456473541	geckodriver	INFO	Listening on 127.0.0.1:52648
+1564456476546	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.mcG9S64KbctX
+1564456476548	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564456476551	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52664
+1564456477532	Marionette	INFO	Listening on port 52664
+1564456479558	Marionette	INFO	startBrowser d5557f33-6184-4dc6-b163-c60d7005ae53
+[Child 7708] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564465135189	geckodriver	INFO	Listening on 127.0.0.1:54507
+1564465138214	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.6qVRUR4jylX0
+1564465138215	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564465138218	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54521
+1564465139532	Marionette	INFO	Listening on port 54521
+1564465141688	Marionette	INFO	startBrowser 2cb25037-2d6d-44e2-835f-34b1869bfb45
+[Child 6356] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564465249036	geckodriver	INFO	Listening on 127.0.0.1:54814
+1564465252075	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.JNP6xseQSpIA
+1564465252077	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564465252080	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54827
+1564465253073	Marionette	INFO	Listening on port 54827
+1564465255140	Marionette	INFO	startBrowser 6502c9e3-ef43-4be1-98dd-1452a85b8dd0
+1564466260467	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564467869396	geckodriver	INFO	Listening on 127.0.0.1:59887
+1564467872429	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.O3SLaSaue6mO
+1564467872430	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564467872433	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59901
+1564467873390	Marionette	INFO	Listening on port 59901
+1564467875629	Marionette	INFO	startBrowser 7cc8f526-a339-489c-a99c-40897eb35785
+[Child 8472] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564474912838	geckodriver	INFO	Listening on 127.0.0.1:57982
+1564474915872	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.zEvuG3WgMLZe
+1564474915874	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564474915876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57993
+1564474916941	Marionette	INFO	Listening on port 57993
+1564474919114	Marionette	INFO	startBrowser 639254c6-8f58-450d-8130-56fe29ee37a3
+JavaScript error: https://www.seleniumhq.org/tophatpromo.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.seleniumhq.org/tophatpromo.js, line 1: ReferenceError: $ is not defined
+[Child 7264] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+localhost:58071
+1564474975935	Marionette	INFO	Listening on port 58071
+1564474978213	Marionette	INFO	startBrowser df4cbe99-9bfa-4411-93d7-9ea6e2e0f357
+[Child 4220] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564475212987	geckodriver	INFO	Listening on 127.0.0.1:58291
+1564475215997	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.5GYwUXFtEgFM
+1564475215999	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564475216003	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58303
+1564475217150	Marionette	INFO	Listening on port 58303
+1564475219267	Marionette	INFO	startBrowser cd851f2a-90d5-4733-ad41-d315deffe571
+[Child 1472] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1564476577860	geckodriver	INFO	Listening on 127.0.0.1:59805
+1564476579846	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.Iwmz0icQc9ID
+1564476579848	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564476579850	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59821
+1564476581014	Marionette	INFO	Listening on port 59821
+1564476583284	Marionette	INFO	startBrowser 235a3a6d-7fbf-40bc-8b26-a26c00ac866e
+[Child 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564476643596	geckodriver	INFO	Listening on 127.0.0.1:59919
+1564476645625	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.PaURhwpHvZDh
+1564476645626	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564476645629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59925
+1564476647158	Marionette	INFO	Listening on port 59925
+1564476649175	Marionette	INFO	startBrowser 4aaf6a60-00f3-4dcf-97bc-b6eda9ca621b
+[Child 4724] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564476762654	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564476762658	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8ICiRTb1wG9C"
+1564476764906	Marionette	INFO	Listening on port 2828
+1564476873929	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564476873933	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.m8eVCNkq4ag5"
+1564476876371	Marionette	INFO	Listening on port 2828
+1564477753450	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564477753454	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ciz16CE2u87X"
+1564477755167	Marionette	INFO	Listening on port 2828
+1564477977029	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564477977034	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8gHQt0mg45jI"
+1564477978778	Marionette	INFO	Listening on port 2828
+1564478782869	geckodriver	INFO	Listening on 127.0.0.1:62984
+1564478784883	mozprofile::profile	INFO	Using profile path C:\Users\ADMINI~1\AppData\Local\Temp\rust_mozprofile.ahsii3grZMiH
+1564478784884	geckodriver::marionette	INFO	Starting browser D:\Program Files\Mozilla Firefox\firefox.exe with args []
+1564478784887	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62992
+1564478786001	Marionette	INFO	Listening on port 62992
+1564478788232	Marionette	INFO	startBrowser 1c2f928f-23ae-436e-b0c7-2adf398343e4
+[Child 8720] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8720] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564486350551	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564486350555	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.n1gDTZ3AdE1i"
+1564486352840	Marionette	INFO	Listening on port 2828
+[Child 10208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564543285582	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564543285609	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.8rkAp7cgny5u"
+1564543289199	Marionette	INFO	Listening on port 2828
+[Child 5260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1564638581035	webdriver::command	WARN	You are using deprecated legacy session negotiation patterns (desiredCapabilities/requiredCapabilities), see https://developer.mozilla.org/en-US/docs/Web/WebDriver/Capabilities#Legacy
+1564638581045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ZX3Jydc9WWNn"
+1564638582521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1564638582522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1564638582522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1564638582522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Child 8292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1564638585892	Marionette	INFO	Listening on port 51353
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1564638626461	Marionette	INFO	Stopped listening on port 51353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1563383129/build/src/ipc/chromium/src/chrome/com

@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "企业微信，添加成员",
+    "children" : [ {
+      "name" : "通讯录中，添加一个成员",
+      "children" : [ {
+        "name" : "test_loging",
+        "uid" : "655710488a997601",
+        "parentUid" : "d17e2a8257795e7a6938c9b6dc9700aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565075243167,
+          "stop" : 1565075254081,
+          "duration" : 10914
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d17e2a8257795e7a6938c9b6dc9700aa"
+    } ],
+    "uid" : "170295a44716009ebf5fbfe68b99b0ae"
+  } ]
+}
