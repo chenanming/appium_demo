@@ -51,7 +51,7 @@ class TestHttp:
         params = {'limit': 2}
         data = requests.get(url, params=params).json()
         print(jsonpath.jsonpath(data, "$..user[?(@.login='turinblueice')]"))
-        #assert data['topics'][0]['user']['login'] == "turinblueice"
+        assert data['topics'][0]['user']['login'] == "turinblueice"
 
 
     def test_xueqiu_search(self):
