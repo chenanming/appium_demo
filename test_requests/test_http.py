@@ -1,7 +1,9 @@
+import json
 import jsonpath
 import requests
 import pytest
 from requests import Response
+from jsonschema import validate
 
 
 class TestHttp:
@@ -49,9 +51,18 @@ class TestHttp:
     def test_get_login_jasnpath(self):
         url = "https://testerhome.com/api/v3/topics.json"
         params = {'limit': 2}
-        data = requests.get(url, params=params).json()
-        print(jsonpath.jsonpath(data, "$..user[?(@.login='turinblueice')]"))
-        assert data['topics'][0]['user']['login'] == "turinblueice"
+        data = requests.get(url, params=params)
+        print(data.json())
+        print(jsonpath.jsonpath(data.json(), "$..user"))
+        print(jsonpath.jsonpath(data.json(), "$..user..login"))
+        assert jsonpath.jsonpath(data.json(), "$.topics[?(@.user.login == 'SabrinaZhou007')].user.id")[0] == '47270'
+
+    def test_get_login_schema(self):
+        url = "https://testerhome.com/api/v3/topics.json"
+        params = {'limit': 2}
+        data = requests.get(url, params=params)
+        schema = json.load(open("topics_schema.json"))
+        validate(data, schema=schema)
 
 
     def test_xueqiu_search(self):
