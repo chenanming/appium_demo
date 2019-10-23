@@ -3,7 +3,7 @@
 import pytest
 from time import sleep
 from appium import webdriver
-from selenium.webdriver.support import expected_conditions
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from appium_po.page.optional_page import OptionalPage
 from appium_po.page.search_page import SearchPage
