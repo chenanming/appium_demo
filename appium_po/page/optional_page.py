@@ -29,7 +29,7 @@ class OptionalPage(BaseDriver):
         return self
 
     def select(self, index):
-        '''关键字，联想列表'''
+        ''' 关键字，联想列表'''
         self.driver.find_elements(By.ID, "name")[index].click()
         return self
 
