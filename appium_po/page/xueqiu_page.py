@@ -88,7 +88,7 @@ class HomePage:
             self.driver.swipe(x1, y1, x1, y2, t)
 
     def goto_search(self):
-        '''搜索'''
+        '''点击搜索，进入搜索页面'''
         self.driver.find_element(*self._search_but).click()
         return SearchPage(self.driver)
 
