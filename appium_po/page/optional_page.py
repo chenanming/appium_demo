@@ -29,12 +29,8 @@ class OptionalPage(BaseDriver):
         return self
 
     def select(self, index):
-        '''关键字，联想列表'''
+        ''' 关键字，联想列表'''
         self.driver.find_elements(By.ID, "name")[index].click()
-        return self
-
-    def add_optional_text(self):
-        self.driver.find_element(*self._optional_buttun).text
         return self
 
     def long_press(self,index):
