@@ -33,10 +33,6 @@ class OptionalPage(BaseDriver):
         self.driver.find_elements(By.ID, "name")[index].click()
         return self
 
-    def add_optional_text(self):
-        self.driver.find_element(*self._optional_buttun).text
-        return self
-
     def long_press(self,index):
         '''选中目标，长按'''
         el = self.driver.find_elements(By.ID, "portfolio_stockName")[index]
