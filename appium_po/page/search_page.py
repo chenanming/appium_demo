@@ -14,7 +14,7 @@ class SearchPage(BaseDriver):
 
     def search(self, keyword):
         # 输入搜索关键字 input_text
-        self.driver.find_element(By.ID, self.element.get_value('搜索输入')).send_keys(keyword)
+        self.driver.find_element(By.ID, self.element.get_value('搜索输入')).send_keys(keyword)  # 用ReadIni()方法读取元素
         #self.driver.find_element(By.ID, "search_input_text").send_keys(keyword)
         return self
 
@@ -24,7 +24,7 @@ class SearchPage(BaseDriver):
         return self
 
     def get_price(self, stock_type):
-        # 获取
+        '''获取'''
         price = float(self.driver.find_element_by_xpath(
             "//*[contains(@resource-id, 'stockCode') and @text='"
             + stock_type

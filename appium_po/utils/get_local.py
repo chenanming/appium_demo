@@ -3,7 +3,6 @@ from appium_po.utils.read_ini import ReadInit
 from appium_po.base.base_driver import BaseDriver
 
 class GetByLocal(BaseDriver):
-    '''拆分ini文件的元素信息，'''
     def find_element(self, key):
         read_ini = ReadInit()
         local = read_ini.get_value(key)

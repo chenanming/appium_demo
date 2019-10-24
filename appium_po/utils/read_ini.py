@@ -17,13 +17,11 @@ class ReadInit:
         self.data = self.read_ini()
 
     def read_ini(self):
-        '''读取ini文件'''
         read_ini = configparser.ConfigParser()
         read_ini.read(self.file_path, encoding='utf-8-sig')
         return read_ini
 
     def get_value(self, key, section=None):
-        '''返回文件中元素坐标'''
         if section == None:
             section = 'login_element'
         try:
@@ -31,7 +29,3 @@ class ReadInit:
         except:
             value = None
         return value
-
-if __name__ == '__main__':
-    da=ReadInit()
-    print(da.get_value('登录头像'))
