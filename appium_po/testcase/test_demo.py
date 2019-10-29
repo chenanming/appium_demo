@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding=utf-8 -*-
 import pytest
-from time import sleep
+import time
 from appium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
