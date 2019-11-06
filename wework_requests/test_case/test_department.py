@@ -2,14 +2,18 @@ from wework_requests.api.department import Department
 
 
 class TestDepartment:
+	department = Department()
+	def setup_class(self):
+		pass
+
 	def test_list(self):
-		departemt = Department()
-		r = departemt.list("")
+		r = self.department.list("")
 		assert r["errcode"] == 0
-		#assert r['department'][1]['name'] == "产品部门"
+		#assert r['department'][1]['name'] == "浜у搧閮ㄩ棬"
 
 	def test_create(self):
-		pass
+		r = self.department.create("鎶�鏈儴", 1, 1000, "")
+		assert r['errcode'] == 0
 
 	def test_update(self):
 		pass

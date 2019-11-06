@@ -37,7 +37,7 @@ class TestHttp:
 
     def test_testhome(self):
         url = "https://testerhome.com/api/v3/topics.json"
-        r = requests.get(url, params={'limit': '2'}, proxies=self.proxies)
+        r = requests.get(url, params={'limit': '2'}, proxies=self.proxies, verify=False)  # proxies:设置代理 verify:证书
         print(r.json())
         assert r.json()['topics'][0]['id'] == 20849
 
