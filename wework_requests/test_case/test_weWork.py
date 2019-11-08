@@ -1,3 +1,5 @@
+# _*_ coding:utf-8 _*_
+
 from unittest import TestCase
 
 from wework_requests.api.wework import WeWork

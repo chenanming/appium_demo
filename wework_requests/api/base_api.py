@@ -1,3 +1,5 @@
+# _*_ coding:utf-8 _*_
+
 from utils.Untils import Utils
 import pprint
 
@@ -6,5 +8,5 @@ class BaseApi:
 
 	@classmethod
 	def versobe(cls, json_object):
-		print(Utils.format(json_object))  # Ê¹ÓÃUtilsµÄformat()·½·¨¶ÔjsonÊı¾İ£¨r£©£¬¸ñÊ½»¯Êä³ö
-		#cls.printer.pprint(json_object)  # Ê¹ÓÃpprint·½·¨¸ñÊ½Êı¾İ
+		print(Utils.format(json_object))  # ä½¿ç”¨Utilsçš„format()æ–¹æ³•å¯¹jsonæ•°æ®ï¼ˆrï¼‰ï¼Œæ ¼å¼åŒ–è¾“å‡º
+		#cls.printer.pprint(json_object)  # ä½¿ç”¨pprintæ–¹æ³•æ ¼å¼æ•°æ®

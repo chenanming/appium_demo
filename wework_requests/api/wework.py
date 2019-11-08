@@ -1,28 +1,29 @@
+# _*_ coding:utf-8 _*_
+
 import requests
 import logging
-
-from wework_requests.api.base_api import BaseApi
-
 logging.basicConfig(
     level=logging.INFO
 )
 
+from wework_requests.api.base_api import BaseApi
+
 
 class WeWork(BaseApi):
-	corpid = 'wwda2949fda2df78ef'  # ÆóÒµID
-	agent_secret = 'Ci-POCmt0gJg_q-v6-sSROV0wc9hms_EU791KNcNU_Q'  # Ó¦ÓÃsecret
-	cont_secret = 'nfwiyl5yV7Nu7xrT6OytyRlDuNNhoZQcdoJJ_nA49_0'  # Í¨Ñ¶Â¼secret
+	corpid = 'wwda2949fda2df78ef'  # ä¼ä¸šID
+	agent_secret = 'Ci-POCmt0gJg_q-v6-sSROV0wc9hms_EU791KNcNU_Q'  # åº”ç”¨secret
+	cont_secret = 'nfwiyl5yV7Nu7xrT6OytyRlDuNNhoZQcdoJJ_nA49_0'  # é€šè®¯å½•secret
 	access_token = None
 
 	@classmethod
 	def get_token(cls):
-		# »º´æaccess_token£¬ÏÈ¶¨ÒåÒ»¸ö¿ÕÖµ±äÁ¿
+		# ç¼“å­˜access_tokenï¼Œå…ˆå®šä¹‰ä¸€ä¸ªç©ºå€¼å˜é‡
 		if cls.access_token==None:
 			url = 'https://qyapi.weixin.qq.com/cgi-bin/gettoken'
 			params = {'corpid': cls.corpid, 'corpsecret': cls.cont_secret}
 			res = requests.get(url, params=params).json()
 			cls.versobe(res)
-			# self.access_token = res['access_token']  # ¾ßÌåµÄÊµÀı
-			cls.access_token = res['access_token']  # WeWorkÀàµÄÊµÀı£¬¹©È«¾Öµ÷ÓÃ
+			# self.access_token = res['access_token']  # å…·ä½“çš„å®ä¾‹
+			cls.access_token = res['access_token']  # WeWorkç±»çš„å®ä¾‹ï¼Œä¾›å…¨å±€è°ƒç”¨
 
 		return WeWork.access_token
