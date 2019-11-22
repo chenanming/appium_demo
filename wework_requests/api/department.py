@@ -31,8 +31,10 @@ class Department(BaseApi):
 				   }
 		res = requests.post(self.create_url,
 							params={'access_token': WeWork.get_token()},
+							# 需要设置UTF-8编码
+							headers={'content-type': 'application/json; charset=utf-8'},
 							json={"name": name, "parentid": parentid, "order": order, "id": id},
-							#proxies=proxies,  # 映射指定的代理的url
+							proxies=proxies,  # 映射指定的代理的url
 							verify=False
 							).json()
 		self.versobe(res)  # 打印响应数据

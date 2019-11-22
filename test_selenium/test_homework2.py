@@ -8,7 +8,7 @@
 把代码和allure的截图，贴到回复里
 
 allure测试报告
-pytest test_demo.py --alluredir report/demo       #生成xml报告用这个命令
+pytest test_demo.py --alluredir report/demo       # 生成xml报告用这个命令
 allure generate report/demo/ -o report/demo/html  # 生成html格式报告
 '''
 import time
