@@ -27,3 +27,8 @@ class WeWork(BaseApi):
 			cls.access_token = res['access_token']  # WeWork类的实例，供全局调用
 
 		return WeWork.access_token
+
+if __name__ == "__main__":
+	we = WeWork()
+	we.get_token()
+	print(we.access_token)

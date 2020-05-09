@@ -72,7 +72,8 @@ class TestHome:
 
 
     def teardown(self):
-        self.driver.quit()
+        pass
+        #self.driver.quit()
 
 if __name__ == "__main__":
     pytest.main()
