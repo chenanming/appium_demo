@@ -1,4 +1,4 @@
-import pytest
+import pytests
 
 
 def start_prepare():
@@ -10,7 +10,7 @@ def end_operation():
 
 
 # fixture函数
-@pytest.fixture()
+@pytests.fixture()
 def fixture_func():
     print("测试开始")
     # 当程序碰到yield会先执行yield前面的代码，等代码都执行完后回到yield处继续执行后面的代码

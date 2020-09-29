@@ -1,4 +1,4 @@
-import pytest, allure
+import pytests, allure
 from appium_po.page.xueqiu_page import HomePage
 
 print()
@@ -37,4 +37,4 @@ class TestSearch:
         assert self.xueqiu.goto_optional().search_buttun().search("alibaba").select(0).follow_btn_text() == "加自选"
 
 if __name__ == '__main__':
-    pytest.main()
+    pytests.main()

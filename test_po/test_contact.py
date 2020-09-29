@@ -10,7 +10,7 @@
 '''
 
 from time import sleep, time
-import pytest, allure
+import pytests, allure
 from selenium import webdriver
 from test_po.contact_page import ContactPage
 from test_po.base_page import BaseDriver
@@ -53,4 +53,4 @@ class TestContact:
         self.manage.add_picture()
 
 if __name__ == '__main__':
-    pytest.main()
+    pytests.main()

@@ -1,4 +1,4 @@
-import pytest, allure
+import pytests, allure
 from appium_po.page.xueqiu_page import HomePage
 from appium_po.base.base_driver import BaseDriver
 
@@ -16,4 +16,4 @@ class TestSearch01:
 
 
 if __name__ == '__main__':
-    pytest.main()
+    pytests.main()

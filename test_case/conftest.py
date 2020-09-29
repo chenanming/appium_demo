@@ -1,5 +1,5 @@
-import pytest
+import pytests
 
-@pytest.fixture(scope="session")
+@pytests.fixture(scope="session")
 def topics():
     print("\n 输入账号、密码，先登录")

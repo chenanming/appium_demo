@@ -2,7 +2,7 @@
 # -*- coding=utf-8 -*-
 import logging
 
-import pytest
+import pytests
 from appium import webdriver
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
@@ -99,4 +99,4 @@ class HomePage:
 
 
 if __name__ == '__main__':
-    pytest.main()
+    pytests.main()

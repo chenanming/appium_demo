@@ -1,5 +1,5 @@
 import yaml
-import pytest
+import pytests
 from src.clac import Clac
 
 clac = Clac()
@@ -9,6 +9,6 @@ def load_json():
         re = yaml.load(f)
     return re
 
-@pytest.mark.parametrize("a, b, c", str(load_json()))
+@pytests.mark.parametrize("a, b, c", str(load_json()))
 def test_div(a, b, c):
     assert a/b == c

@@ -1,6 +1,6 @@
 # _*_ coding=utf-8 _*_
 
-import pytest
+import pytests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -22,4 +22,4 @@ class TestHome:
         self.driver.quit()
 
 if __name__ == "__main__":
-    pytest.main()
+    pytests.main()

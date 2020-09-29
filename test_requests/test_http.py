@@ -1,7 +1,7 @@
 import json
 import jsonpath
 import requests
-import pytest
+import pytests
 from requests import Response
 from jsonschema import validate
 

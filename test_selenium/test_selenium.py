@@ -2,7 +2,7 @@
 import logging
 import time
 
-import pytest
+import pytests
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
@@ -56,4 +56,4 @@ class TestHome:
         #self.driver.quit()
 
 if __name__ == "__main__":
-    pytest.main()
+    pytests.main()

@@ -8,12 +8,12 @@
 把代码和allure的截图，贴到回复里
 
 allure测试报告
-pytest test_demo.py --alluredir report/demo       # 生成xml报告用这个命令
+pytests test_demo.py --alluredir report/demo       # 生成xml报告用这个命令
 allure generate report/demo/ -o report/demo/html  # 生成html格式报告
 '''
 import time
 import allure
-import pytest
+import pytests
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
@@ -41,7 +41,7 @@ class TestSelenium:
         assert "访问被拒绝，你可能没有权限或未登录。" in self.driver.page_source
 
     @allure.story("错误用户名和密码登陆")
-    @pytest.mark.parametrize("username, password", [
+    @pytests.mark.parametrize("username, password", [
         ("tester", "123456"),
         ("1313383249@163.com", "123456")
     ])
@@ -67,4 +67,4 @@ class TestSelenium:
         self.driver.quit()
 
 if __name__ == "__main__":
-    pytest.main()
+    pytests.main()

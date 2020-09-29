@@ -1,5 +1,5 @@
 import logging
-import pytest
+import pytests
 
 logging.basicConfig(level=logging.DEBUG)
 
@@ -26,7 +26,7 @@ class TestPytestObject:
     def test_two(self):
         assert 1 == 2
 
-    @pytest.mark.run(order=1)
+    @pytests.mark.run(order=1)
     def test_one(self):
         assert False == True
 

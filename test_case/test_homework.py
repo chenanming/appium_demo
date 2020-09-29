@@ -1,5 +1,5 @@
 import logging
-import pytest
+import pytests
 import allure
 import pytest_ordering
 
@@ -30,7 +30,7 @@ class TestB:
     def setup_method(self):
         logging.info("   TestB 中每个用例方法，初始化")
 
-    @pytest.mark.parametrize("a, b, c", [
+    @pytests.mark.parametrize("a, b, c", [
         (1, 2, 3),
         (-1, 3, 2),
         (10000, 9999, 19999),
@@ -39,13 +39,13 @@ class TestB:
     def test_04(self, a, b, c):
         assert a+b == c
 
-    @pytest.mark.parametrize("a, b, c", [
+    @pytests.mark.parametrize("a, b, c", [
         (3, 1, 3)
     ])
     def test_05(self, a, b, c):
         assert a/b == c
 
-    @pytest.mark.parametrize("a, b", [
+    @pytests.mark.parametrize("a, b", [
         (1, 3),
         (1, 2),
         (3, 5)
@@ -56,17 +56,17 @@ class TestB:
 
 class TestC:
 
-    @pytest.mark.run(order=-1)
+    @pytests.mark.run(order=-1)
     def test_07(self):
         assert 1 == 1
 
-    @pytest.mark.run(order=-3)
+    @pytests.mark.run(order=-3)
     def test_08(self):
         assert 2 != 3
 
-    @pytest.mark.run(order=-2)
+    @pytests.mark.run(order=-2)
     def test_09(self):
         assert  3 == 3
 
 if __name__ == '__main__':
-    pytest.main()
+    pytests.main()

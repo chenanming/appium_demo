@@ -2,7 +2,7 @@
 import logging
 import time
 import allure
-import pytest
+import pytests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
@@ -76,4 +76,4 @@ class TestHome:
         #self.driver.quit()
 
 if __name__ == "__main__":
-    pytest.main()
+    pytests.main()

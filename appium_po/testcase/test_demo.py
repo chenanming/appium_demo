@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding=utf-8 -*-
-import pytest
+import pytests
 import time
 from appium import webdriver
 from selenium.webdriver.support import expected_conditions as EC

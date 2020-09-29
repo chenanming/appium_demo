@@ -2,7 +2,7 @@
 # @Time    :2019/8/16
 # @Author  :陈安明
 # @File    :
-import pytest
+import pytests
 import allure
 from appium import webdriver
 from selenium.webdriver.common.by import By
@@ -55,7 +55,7 @@ class TestXueQiu:
         text = self.driver.find_element(By.ID, "com.xueqiu.android:id/md_content").text
         assert "用户名或密码错误" in text
 
-    @pytest.mark.parametrize("search, rch", [
+    @pytests.mark.parametrize("search, rch", [
         ("alibaba", "阿里巴巴"),
         ("xiaomi", "小米"),
         ("google", "谷歌")
@@ -72,4 +72,4 @@ class TestXueQiu:
 
 
 if __name__ == "__main":
-    pytest.main()
+    pytests.main()

@@ -1,6 +1,6 @@
-import pytest
+import pytests
 
-@pytest.fixture(params=[1, 2, 3])
+@pytests.fixture(params=[1, 2, 3])
 def test_data(request):
     return request.param
 
